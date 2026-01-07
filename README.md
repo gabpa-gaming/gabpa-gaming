@@ -33,7 +33,7 @@ Web application using Java and JavaScript that fetches YouTube videos via the Yo
 
 ## Contact
 
-Email:  `[email@example.com]` //todo add email
+Email:  `[gabriel.zych.dev@gmail.com]`
 
 ---
 
